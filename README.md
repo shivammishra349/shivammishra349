@@ -37,5 +37,5 @@ I believe in full ownership — from writing clean code to managing scalable inf
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivammishra349&theme=tokyonight"/>
 </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammishra&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammishra349&layout=compact&theme=tokyonight" />
 </p>
